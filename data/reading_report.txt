@@ -1,0 +1,32 @@
+========================================
+        PERSONAL READING REPORT
+========================================
+Generated on: 2026-11-06 09:18
+
+READING STATISTICS
+------------------
+Total books       : 3
+Completed         : 1
+Currently reading : 1
+Unread            : 1
+Total pages       : 1360
+Pages completed   : 440
+Overall progress  : 32.4%
+Average rating    : 4.25 (rated books only)
+
+Books by genre:
+  - Science Fiction: 1
+  - Self-Help: 1
+  - Technology: 1
+
+BOOKS BY STATUS
+------------------
+Unread (1)
+  [3] Dune by Frank Herbert - 0/688 pages (0.0%) - Not rated
+
+Reading (1)
+  [2] The Pragmatic Programmer by Andrew Hunt - 120/352 pages (34.1%) - Rating: 4.0
+
+Completed (1)
+  [1] Atomic Habits by James Clear - 320/320 pages (100.0%) - Rating: 4.5
+

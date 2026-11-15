@@ -1,0 +1,4 @@
+book_id,title,author,genre,year,rating,total_pages,pages_completed,completion_percent,status
+1,Atomic Habits,James Clear,Self-Help,2018,4.5,320,320,100.0,Completed
+2,The Pragmatic Programmer,Andrew Hunt,Technology,1999,4.0,352,120,34.1,Reading
+3,Dune,Frank Herbert,Science Fiction,1965,0.0,688,0,0.0,Unread
